@@ -1,10 +1,10 @@
-package hard;
+package medium;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class ThreeNumnerSum {
+public class ThreeNumberSum {
 
     public static void main(String[] args) {
 
