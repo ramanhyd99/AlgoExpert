@@ -5,12 +5,9 @@ import java.util.Arrays;
 public class SortedSquareArray {
 
     public static void main(String[] args) {
-
         System.out.println(Arrays.toString(sortedSquaredArray(new int[]{-4, 1, 2})));
         System.out.println(Arrays.toString(sortedSquaredArray(new int[]{-4, -2, 1, 2, 3, 4, 5})));
         System.out.println(Arrays.toString(sortedSquaredArray(new int[]{4})));
-
-
     }
 
     public static int[] sortedSquaredArray(int[] array) {
